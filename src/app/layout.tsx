@@ -16,6 +16,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Tus notas",
   description: "Guarda y organiza tus frases favoritas en un solo lugar.",
+  icons: "/notes.ico"
 };
 
 export default function RootLayout({

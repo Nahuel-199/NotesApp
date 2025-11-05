@@ -1,6 +1,6 @@
 # 🧠 Quotes App — Challenge React
 
-Una aplicación moderna desarrollada en **React + Redux Toolkit + Chakra UI**, que permite crear, editar, eliminar y filtrar frases de manera interactiva, con una interfaz limpia, animaciones suaves y persistencia local.
+Una aplicación moderna desarrollada en **Nextjs + React + Redux Toolkit + Chakra UI**, que permite crear, editar, eliminar y filtrar frases de manera interactiva, con una interfaz limpia, animaciones suaves y persistencia local.
 
 > 💬 *“Tu colección de frases, guardadas para inspirarte cada día.”*
 
@@ -61,8 +61,8 @@ src/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/quotes-app.git
-   cd quotes-app
+   git clone https://github.com/Nahuel-199/NotesApp.git
+   cd notesapp
    ```
 
 2. **Instalar dependencias**
