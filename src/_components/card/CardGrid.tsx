@@ -26,7 +26,7 @@ export default function CardGrid() {
         gap={3}
         align="center"
         justify="center"
-        h="50vh"
+        h={{base: "30vh", md: "40vh"}}
         opacity={0.8}
       >
         <Icon as={LuSearchX} boxSize={12} color="gray.400" />
